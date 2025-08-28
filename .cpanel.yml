@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/pinnacleinjury/rh-diary
+    - /bin/cp -R * $DEPLOYPATH
