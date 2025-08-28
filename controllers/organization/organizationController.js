@@ -644,21 +644,21 @@ const signinOrganization = async function (req, res) {
   console.log("============", email, password);
 
   // Check if password contains spaces
-  // if (password && password.includes(' ')) {
-  //   // Audit log for password with spaces
-  //   auditLog(
-  //     "SIGNIN_ATTEMPT",
-  //     "Organization",
-  //     { email },
-  //     null,
-  //     "Sign-in attempt failed: Password contains spaces"
-  //   )(req, res, () => {});
+  if (password && password.includes(' ')) {
+    // Audit log for password with spaces
+    auditLog(
+      "SIGNIN_ATTEMPT",
+      "Organization",
+      { email },
+      null,
+      "Sign-in attempt failed: Password contains spaces"
+    )(req, res, () => {});
 
-  //   return res.status(400).json({ 
-  //     status: false, 
-  //     message: "Please check the password, there is a space in it" 
-  //   });
-  // }
+    return res.status(400).json({ 
+      status: false, 
+      message: "Please check the password, there is a space in it" 
+    });
+  }
 
   try {
     const userExist = await organizationModel.isUserExist(email);
