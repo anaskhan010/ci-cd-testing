@@ -2,10 +2,7 @@
 deployment:
   tasks:
     - export APPROOT=/home/pinnacleinjury/rh-diary
-    - /bin/echo "Installing production dependencies in $APPROOT"
     - /usr/local/bin/npm ci --prefix "$APPROOT" --omit=dev
-    # If you have a build step (TypeScript, bundling, etc), add it here:
-    # - /usr/local/bin/npm run --prefix "$APPROOT" build
-    - /bin/echo "Restarting Passenger"
+    # - /usr/local/bin/npm run --prefix "$APPROOT" build   # if you have one
     - /bin/mkdir -p "$APPROOT/tmp"
-    - /bin/touch "$APPROOT/tmp/restart.txt"
+    - /bin/touch "$APPROOT/tmp/restart.txt"               # restart Passenger
