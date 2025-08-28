@@ -1,0 +1,4 @@
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-04-16 16:55:18"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-04-16 17:33:47"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-04-16 17:33:58"}
+{"level":"error","message":"Failed to log to database or Excel: Cannot read properties of undefined (reading 'headers')","timestamp":"2025-04-16 17:34:00"}

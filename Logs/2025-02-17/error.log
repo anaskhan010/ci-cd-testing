@@ -1,0 +1,2 @@
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-17 14:22:38"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-17 14:32:30"}

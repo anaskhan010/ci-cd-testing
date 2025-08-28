@@ -1,0 +1,10 @@
+{"level":"error","message":"Failed to decode token or email is missing","timestamp":"2025-01-15 21:30:08"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-01-15 21:30:11"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-15 21:32:29"}
+{"level":"error","message":"Failed to log to database: Cannot read properties of undefined (reading 'headers')","timestamp":"2025-01-15 21:32:31"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-15 21:33:32"}
+{"level":"error","message":"Failed to log to database: Cannot read properties of undefined (reading 'headers')","timestamp":"2025-01-15 21:33:34"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-15 21:46:50"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-15 21:49:44"}
+{"level":"error","message":"Failed to log to database: Cannot read properties of undefined (reading 'headers')","timestamp":"2025-01-15 21:49:45"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-15 21:50:55"}

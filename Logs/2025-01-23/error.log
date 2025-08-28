@@ -1,0 +1,6 @@
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-23 00:59:56"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-23 01:00:06"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-23 01:02:18"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-23 01:37:43"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-23 01:42:17"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-23 01:45:17"}

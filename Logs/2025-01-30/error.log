@@ -1,0 +1,8 @@
+{"level":"error","message":"Failed to log to database or Excel: EBUSY: resource busy or locked, open 'C:\\Users\\acer\\Downloads\\test_live_environment-master\\Logs\\2025-01-30\\audit_logs.xlsx'","timestamp":"2025-01-30 04:09:34"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-01-30 04:09:56"}
+{"level":"error","message":"Failed to log to database or Excel: EBUSY: resource busy or locked, open 'C:\\Users\\acer\\Downloads\\test_live_environment-master\\Logs\\2025-01-30\\audit_logs.xlsx'","timestamp":"2025-01-30 04:09:59"}
+{"level":"error","message":"Failed to log to database or Excel: userData is not defined","timestamp":"2025-01-30 21:04:27"}
+{"level":"error","message":"Failed to log to database or Excel: userData is not defined","timestamp":"2025-01-30 21:05:17"}
+{"level":"error","message":"Failed to log to database or Excel: userData is not defined","timestamp":"2025-01-30 21:05:19"}
+{"level":"error","message":"Failed to log to database or Excel: userData is not defined","timestamp":"2025-01-30 21:07:20"}
+{"level":"error","message":"Failed to log to database or Excel: userData is not defined","timestamp":"2025-01-30 21:08:31"}

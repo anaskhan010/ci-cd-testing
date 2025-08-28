@@ -1,0 +1,5 @@
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-01-29 21:22:14"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-30 00:16:37"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-30 00:17:24"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-30 00:17:28"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-30 00:19:27"}

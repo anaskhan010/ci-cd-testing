@@ -1,0 +1,9 @@
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-01-22 02:24:39"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-01-22 02:35:29"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-22 02:37:39"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-22 02:38:45"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-22 02:39:23"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-22 02:39:26"}
+{"level":"error","message":"Failed to log to database: Column 'description' cannot be null","timestamp":"2025-01-22 02:40:10"}
+{"level":"error","message":"Failed to log to database: Cannot read properties of undefined (reading 'headers')","timestamp":"2025-01-22 02:40:13"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-01-22 21:40:20"}

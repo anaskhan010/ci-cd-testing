@@ -1,0 +1,18 @@
+{"level":"error","message":"Failed to log to database or Excel: connect EHOSTUNREACH 37.27.187.4:3306","timestamp":"2025-02-06 10:30:08"}
+{"level":"error","message":"Failed to log to database or Excel: connect EHOSTUNREACH 37.27.187.4:3306","timestamp":"2025-02-06 10:30:35"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 10:50:15"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 10:56:59"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 10:57:01"}
+{"level":"error","message":"Failed to log to database or Excel: Corrupted zip or bug: expected 16 records in central dir, got 0","timestamp":"2025-02-06 10:57:11"}
+{"level":"error","message":"Failed to log to database or Excel: Corrupted zip or bug: expected 16 records in central dir, got 0","timestamp":"2025-02-06 10:57:12"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 11:19:21"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 11:19:34"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 11:20:49"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 11:21:29"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 11:22:27"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 11:22:30"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 11:32:39"}
+{"level":"error","message":"Failed to log to database or Excel: Cannot read properties of undefined (reading 'headers')","timestamp":"2025-02-06 11:32:43"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 11:32:43"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-06 11:33:11"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-06 14:40:54"}

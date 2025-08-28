@@ -1,0 +1,111 @@
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 09:34:09"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 09:35:19"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 10:01:13"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 10:08:22"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 10:13:36"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 10:30:25"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 10:31:13"}
+{"level":"info","message":{"api_url":"/auth/signin","browser":"Chrome 132.0.0","description":"User signed in successfully","ip_address":"::1","method":"POST","new_value":"null","old_value":"null","operation":"SIGNIN","table_name":"Organization","user":"topright@gmail.com"},"timestamp":"2025-02-04 10:31:34"}
+{"level":"info","message":{"api_url":"/auth/signin","browser":"Chrome 132.0.0","description":"User signed in successfully","ip_address":"::1","method":"POST","new_value":"null","old_value":"null","operation":"SIGNIN","table_name":"Organization","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 10:32:07"}
+{"level":"info","message":{"api_url":"/organization/createOrganization","browser":"Chrome 132.0.0","ip_address":"::1","method":"POST","new_value":"null","old_value":"null","operation":"create","table_name":"organization","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 10:39:15"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-04 10:39:15"}
+{"level":"info","message":{"api_url":"/organization/createOrganization","browser":"Chrome 132.0.0","description":"New organization created","ip_address":"::1","method":"POST","new_value":"{\"first_name\":\"anas\",\"last_name\":\"khan\",\"middle_name\":\"\",\"email\":\"muhammadanaskhan501@gmail.com\",\"status\":\"Screened\",\"gender\":\"male\",\"address\":\"5959 Bonhomme Rd\",\"contact_number\":\"12377292048\",\"date_of_birth\":\"06/06/1978\",\"stipend\":\"34\",\"study_enrolled_ids\":\"1\",\"notification\":\"some notification\",\"note\":\"Note for admin\",\"role_id\":\"10\",\"organization_detail_id\":\"1\",\"ecrf_id\":\"A565-675\",\"timezone\":\"Asia/Karachi\"}","old_value":"null","operation":"CREATE","table_name":"Organization","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 10:39:15"}
+{"level":"info","message":{"api_url":"/registration_approval/updateStatus/340","browser":"Chrome 132.0.0","ip_address":"::1","method":"PUT","new_value":"null","old_value":"null","operation":"update","table_name":"update registration status ","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 10:39:56"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-04 10:39:56"}
+{"level":"info","message":{"api_url":"/schedule/createSchedule","browser":"Other 0.0.0","ip_address":"::1","method":"POST","new_value":"null","old_value":"null","operation":"create","table_name":"schedule","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 10:39:57"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-04 10:39:57"}
+{"level":"info","message":{"api_url":"/schedule/createSchedule","browser":"Other 0.0.0","description":"Schedule created successfully for user 447","ip_address":"::1","method":"POST","new_value":"{}","old_value":"null","operation":"CREATE","table_name":"Schedule","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 10:39:57"}
+{"level":"info","message":{"api_url":"/registration_approval/updateStatus/340","browser":"Chrome 132.0.0","description":"Auto-schedule created for user 447","ip_address":"::1","method":"PUT","new_value":"{\"user_id\":447,\"schedule\":{\"schedule_date\":\"2025-02-04\",\"schedule_time\":\"09:00\",\"study_enrolled_id\":\"1\",\"status\":\"Scheduled\",\"user_id\":447,\"note\":\"Auto-Created Schedule\"}}","old_value":"null","operation":"SCHEDULE_CREATED","table_name":"Registration","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 10:39:59"}
+{"level":"info","message":{"api_url":"/registration_approval/updateStatus/340","browser":"Chrome 132.0.0","description":"Welcome email sent to anas khan (muhammadanaskhan501@gmail.com)","ip_address":"::1","method":"PUT","new_value":"{\"user_id\":447,\"email\":\"muhammadanaskhan501@gmail.com\",\"subject\":\"Welcome to ResearchHero!\"}","old_value":"null","operation":"EMAIL_SENT","table_name":"Registration","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 10:39:59"}
+{"level":"info","message":{"api_url":"/registration_approval/updateStatus/340","browser":"Chrome 132.0.0","description":"Registration status updated to Accepted for ID 340","ip_address":"::1","method":"PUT","new_value":"{\"id\":\"340\",\"status\":\"Accepted\",\"reason\":\"Accepted By Super Admin \",\"user_id\":447}","old_value":"[{\"account_status_id\":340,\"user_id\":447,\"account_status\":\"Pending\",\"reason\":\"Initial registration\",\"first_time\":\"1\",\"updated_at\":\"2025-02-04T05:39:15.000Z\"}]","operation":"UPDATE","table_name":"RegistrationStatus","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 10:39:59"}
+{"level":"info","message":{"api_url":"/organization/logout","browser":"Chrome 132.0.0","description":"User logged out successfully","ip_address":"::1","method":"POST","new_value":"null","old_value":"null","operation":"LOGOUT","table_name":"N/A","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 10:54:03"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 10:54:05"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:16:34"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:31:42"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:31:58"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:31:59"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:31:59"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:00"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:00"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:00"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:00"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:00"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:01"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:01"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:01"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:01"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:01"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:02"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:02"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:02"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:02"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:03"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:03"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:24"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:25"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:25"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:25"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:25"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:26"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:26"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:26"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:26"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:27"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:27"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:27"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:27"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:27"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:28"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:28"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:28"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:28"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:29"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:29"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:29"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:29"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:30"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:30"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:30"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:30"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:30"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:31"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:31"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:31"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:31"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:32"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:32"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:32"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:32"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:32"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:33"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:33"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:33"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:33"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:33"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:34"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:34"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:34"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:34"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:35"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:35"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:32:48"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:34:32"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:35:25"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:36:02"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 11:36:47"}
+{"level":"info","message":{"api_url":"/auth/signin","browser":"Other 0.0.0","description":"User signed in successfully","ip_address":"::1","method":"POST","new_value":"null","old_value":"null","operation":"SIGNIN","table_name":"Organization","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 11:37:13"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 12:14:58"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 12:16:08"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 12:16:29"}
+{"level":"info","message":{"api_url":"/auth/signin","browser":"Other 0.0.0","description":"User signed in successfully","ip_address":"::1","method":"POST","new_value":"null","old_value":"null","operation":"SIGNIN","table_name":"Organization","user":"muhammadanaskhan501@gmail.com"},"timestamp":"2025-02-04 12:17:25"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 12:28:26"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-02-04 12:38:35"}
+{"level":"info","message":{"api_url":"/auth/signin","browser":"Chrome 132.0.0","description":"User signed in successfully","ip_address":"::1","method":"POST","new_value":"null","old_value":"null","operation":"SIGNIN","table_name":"Organization","user":"muhammadanaskhan501@gmail.com"},"timestamp":"2025-02-04 12:41:51"}
+{"level":"info","message":{"api_url":"/organization/logout","browser":"Chrome 132.0.0","description":"User logged out successfully","ip_address":"::1","method":"POST","new_value":"null","old_value":"null","operation":"LOGOUT","table_name":"N/A","user":"muhammadanaskhan501@gmail.com"},"timestamp":"2025-02-04 12:42:06"}
+{"level":"info","message":{"api_url":"/auth/signin","browser":"Chrome 132.0.0","description":"User signed in successfully","ip_address":"::1","method":"POST","new_value":"null","old_value":"null","operation":"SIGNIN","table_name":"Organization","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 12:42:16"}
+{"level":"info","message":{"api_url":"/organization/deleteOrganization/443","browser":"Chrome 132.0.0","ip_address":"::1","method":"DELETE","new_value":"null","old_value":"null","operation":"delete","table_name":"organization","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 12:44:11"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-04 12:44:11"}
+{"level":"info","message":{"api_url":"/organization/deleteOrganization/443","browser":"Chrome 132.0.0","description":"Accepted By Super Admin ","ip_address":"::1","method":"DELETE","new_value":"null","old_value":"{\"organization_id\":412,\"first_name\":\"right\",\"middle_name\":null,\"last_name\":\"padding\",\"status\":\"Screened\",\"is_randomized\":0,\"is_compliant\":1,\"gender\":\"male\",\"address\":\"Satellite Town , Rawalpindi\",\"timezone\":\"Asia/Karachi\",\"contact_number\":\"19120930192\",\"date_of_birth\":\"02/03/2004\",\"stipend\":\"0\",\"image\":null,\"study_enrolled_id\":\"1\",\"date_enrolled\":\"01/30/2025\",\"notification\":\"some notification\",\"user_id\":443,\"organization_detail_id\":1,\"role_id\":10,\"ecrf_id\":\"A343-1R3\",\"email\":\"rightpadding@gmail.com\",\"organization_name\":\"Dr Prabhu Manjeshwar\",\"organization_address\":\"7080 Southwest Freeway Houston TX 77074o\",\"note\":\"Note for admin\",\"enrolled_ids\":\"1\",\"study_names\":\"SUN2003A - 102\",\"investigator_user_ids\":\"337,346,347,401,406\",\"study_enrolled\":[{\"id\":1,\"name\":\"SUN2003A - 102\"}],\"investigators\":[{\"user_id\":337,\"first_name\":\"Aurelie\",\"last_name\":\"Foray\"},{\"user_id\":346,\"first_name\":\"Taufeeq\",\"last_name\":\"khan\"},{\"user_id\":347,\"first_name\":\"Dr Mudassar\",\"last_name\":\"Hassan\"},{\"user_id\":401,\"first_name\":\"Dr Mudassar\",\"last_name\":\"Hassan\"},{\"user_id\":406,\"first_name\":\"\",\"last_name\":\"\"}]}","operation":"DELETE","table_name":"Organization","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 12:44:12"}
+{"level":"info","message":{"api_url":"/organization/deleteOrganization/438","browser":"Chrome 132.0.0","ip_address":"::1","method":"DELETE","new_value":"null","old_value":"null","operation":"delete","table_name":"organization","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 12:44:22"}
+{"level":"error","message":"Failed to log to database or Excel: Column 'description' cannot be null","timestamp":"2025-02-04 12:44:22"}
+{"level":"info","message":{"api_url":"/organization/deleteOrganization/438","browser":"Chrome 132.0.0","description":"Accepted By Super Admin ","ip_address":"::1","method":"DELETE","new_value":"null","old_value":"{\"organization_id\":407,\"first_name\":\"margin\",\"middle_name\":null,\"last_name\":\"bottom\",\"status\":\"Screened\",\"is_randomized\":0,\"is_compliant\":1,\"gender\":\"male\",\"address\":\"5959 Bonhomme Rd\",\"timezone\":\"UTC\",\"contact_number\":\"12377292048\",\"date_of_birth\":\"01/27/1992\",\"stipend\":\"4\",\"image\":null,\"study_enrolled_id\":\"1\",\"date_enrolled\":\"01/30/2025\",\"notification\":\"some notification\",\"user_id\":438,\"organization_detail_id\":1,\"role_id\":10,\"ecrf_id\":\"A101-789\",\"email\":\"anaskhana122@gmail.com\",\"organization_name\":\"Dr Prabhu Manjeshwar\",\"organization_address\":\"7080 Southwest Freeway Houston TX 77074o\",\"note\":\"Note for admin\",\"enrolled_ids\":\"1\",\"study_names\":\"SUN2003A - 102\",\"investigator_user_ids\":\"337,346,347,401,406\",\"study_enrolled\":[{\"id\":1,\"name\":\"SUN2003A - 102\"}],\"investigators\":[{\"user_id\":337,\"first_name\":\"Aurelie\",\"last_name\":\"Foray\"},{\"user_id\":346,\"first_name\":\"Taufeeq\",\"last_name\":\"khan\"},{\"user_id\":347,\"first_name\":\"Dr Mudassar\",\"last_name\":\"Hassan\"},{\"user_id\":401,\"first_name\":\"Dr Mudassar\",\"last_name\":\"Hassan\"},{\"user_id\":406,\"first_name\":\"\",\"last_name\":\"\"}]}","operation":"DELETE","table_name":"Organization","user":"huzaifawaqar77@gmail.com"},"timestamp":"2025-02-04 12:44:23"}

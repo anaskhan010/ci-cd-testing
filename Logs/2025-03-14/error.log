@@ -1,0 +1,4 @@
+{"level":"error","message":"Failed to log to database or Excel: Corrupted zip or bug: expected 16 records in central dir, got 0","timestamp":"2025-03-14 00:17:49"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-03-14 00:18:02"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-03-14 00:18:22"}
+{"level":"error","message":"Authorization token is missing","timestamp":"2025-03-14 00:18:35"}
