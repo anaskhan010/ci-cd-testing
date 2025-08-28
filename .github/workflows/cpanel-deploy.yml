@@ -1,0 +1,22 @@
+name: Deploy to cPanel on push
+on:
+  push:
+    branches: [ master ]   # change to main if needed
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger cPanel UAPI Deployment
+        run: |
+          set -e
+          curl -sS -G \
+            -H "Authorization: cpanel ${CPANEL_USER}:${CPANEL_TOKEN}" \
+            --data-urlencode "repository_root=${CPANEL_REPO_PATH}" \
+            "https://${CPANEL_HOST}:2083/execute/VersionControlDeployment/create" \
+            | tee response.json
+          grep -q '"status":1' response.json || { cat response.json; exit 1; }
+        env:
+          CPANEL_HOST: ${{ secrets.CPANEL_HOST }}
+          CPANEL_USER: ${{ secrets.CPANEL_USER }}
+          CPANEL_TOKEN: ${{ secrets.CPANEL_TOKEN }}
+          CPANEL_REPO_PATH: ${{ secrets.CPANEL_REPO_PATH }}
